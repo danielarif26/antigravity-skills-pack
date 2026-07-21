@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "youtube-automation",
+  "owner": "davepoon",
+  "repo": "buildwithclaude",
+  "path": "plugins/all-skills/skills/youtube-automation",
+  "branch": "main",
+  "sha": "78764a015f01c269156683407e37aa7ba3e722fc",
+  "source": "manual"
+}
