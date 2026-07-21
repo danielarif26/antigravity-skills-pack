@@ -25,7 +25,7 @@ Complete collection of **171+ production-ready agent skills** for [Google Antigr
 Run this single command in your terminal:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/antigravity-skills-pack.git && cd antigravity-skills-pack && ./install.sh
+git clone https://github.com/danielarif26/antigravity-skills-pack.git && cd antigravity-skills-pack && ./install.sh
 ```
 
 Or manually copy the `skills/` directory into your Antigravity config:
