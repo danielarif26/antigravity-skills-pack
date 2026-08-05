@@ -45,5 +45,8 @@ This pack includes `global-autostart-rules` which automatically enforces:
 
 ---
 
+## 👤 About the author
+I put this pack together while running my own Claude Code / Antigravity setup day to day. I'm S M Arifuzzaman, an independent IT technician and web developer based in Paris — more of what I build is at [smarifuzzaman.online](https://smarifuzzaman.online).
+
 ## 📄 License
 MIT License - Free to share and adapt!
