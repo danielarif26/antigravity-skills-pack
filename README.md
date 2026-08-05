@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Antigravity Skill Pack banner" width="100%" />
+</p>
+
+<h3 align="center">171+ agent skills for Google Antigravity</h3>
+
+<p align="center">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/danielarif26/antigravity-skills-pack?style=for-the-badge" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/danielarif26/antigravity-skills-pack?style=for-the-badge" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#-whats-included-171-skills">What's included</a> ·
+  <a href="#-quick-1-command-installation">Install</a> ·
+  <a href="#-global-auto-start-directives">Auto-start directives</a> ·
+  <a href="https://github.com/danielarif26/antigravity-skills-pack/issues">Issues</a>
+</p>
+
+---
+
 # ⚡ Antigravity Ultimate Skill Pack (171+ Agent Skills)
 
 Complete collection of **171+ production-ready agent skills** for [Google Antigravity](https://antigravity.google.com). Fully anonymized, zero personal data, and ready for instant 1-command installation.
@@ -50,3 +71,12 @@ I put this pack together while running my own Claude Code / Antigravity setup da
 
 ## 📄 License
 MIT License - Free to share and adapt!
+
+---
+
+<p align="center">
+  <sub>Made by <a href="https://smarifuzzaman.online">S M Arifuzzaman</a></sub><br/>
+  <a href="https://x.com/shuvro_jaman">🐦 X</a> ·
+  <a href="https://www.instagram.com/shuvroz">📸 Instagram</a> ·
+  <a href="https://www.youtube.com/@secretaihub">▶️ YouTube (SecretAIHub)</a>
+</p>
