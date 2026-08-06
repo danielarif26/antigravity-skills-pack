@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Antigravity Skill Pack banner" width="100%" />
+<img src="assets/hero.jpg" alt="toolbox floating weightless" width="100%">
 </p>
 
 <h3 align="center">171+ agent skills for Google Antigravity</h3>
